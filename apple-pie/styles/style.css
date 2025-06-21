@@ -27,11 +27,11 @@ position: relative;
 display: flex;
 justify-content: center;
 align-items: center;
-margin: 0 3%;
+
 }
 
 #main-image {
-  width: 100%;
+  width: 80%;
   height: auto;
 }
 
